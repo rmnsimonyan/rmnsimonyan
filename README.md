@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arman Simonyan aka @rmnsimonyan
-- 👀 I’m interested in developing mathematical models to describe complex biological systems and study molecular mechanisms in multifactorial disorders.
+- 👀 I’m interested in developing mathematical models for describing complex biological systems and studying molecular mechanisms in multifactorial disorders.
 - 🌱 I’m currently working on scRNA-seq data analysis.
 - 📫 You can reach out to me via rmnsimonyan@gmail.com
 - fb: https://www.facebook.com/arman.simonian.5/

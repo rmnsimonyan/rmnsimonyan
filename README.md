@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arman Simonyan aka @rmnsimonyan
 - 👀 I’m interested in developing mathematical models for describing complex biological systems and studying molecular mechanisms in multifactorial disorders.
 - 🌱 I’m currently working on scRNA-seq data analysis.
+- 🧑‍💻 I currently work at the Department of Genomic Medicine in Rigshospitalet and study in Bioinformatics MS program at the University of Copenhagen.
 - 📫 You can reach out to me via rmnsimonyan@gmail.com
 - fb: https://www.facebook.com/arman.simonian.5/
 - IG: @hungrylemonpanda

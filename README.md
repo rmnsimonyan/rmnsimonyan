@@ -4,6 +4,5 @@
 - 🧑‍💻 I am currently working at the Department of Drug Design and Pharmacology at the University of Copenhagen
 - 🧑‍💻 I hold an MS in Bioinformatics from the University of Copenhagen. I Previously worked at the Department of Genomic Medicine in Rigshospitalet, Harvard Medical School, and Armenian Bioinformatics Institute.
 - 📫 You can reach out to me via rmnsimonyan@gmail.com or arman.simonyan@sund.ku.dk
-- fb: https://www.facebook.com/arman.simonian.5/
-- IG: @hungrylemonpanda
+- Linkedin: https://www.linkedin.com/in/arman-simonyan-a7b76711b/
 - YouTube: https://www.youtube.com/channel/UC8BUFK5tTqsuVFfrccBRBuA
